@@ -8,10 +8,10 @@ $(document).ready(function () {
 	})
 	
   })
-  $(document).ready(function() {
-    $("#mensaje_contacto").click(function() {
-        alert("NO LLAME, NOSOTROS LO LLAMAMOS")
-    })
+//   $(document).ready(function() {
+//     $("#mensaje_contacto").click(function() {
+//         alert("NO LLAME, NOSOTROS LO LLAMAMOS")
+//     })
 
 
   $(document).ready(function() {
